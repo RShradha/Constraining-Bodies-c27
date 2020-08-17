@@ -9,7 +9,7 @@ var backgroundImg,platform;
 var log6, chain1;
 
 function preload() {
-    backgroundImg = loadImage("sprites/bg.png");
+    backgroundImg = loadImage("bg.png");
 }
 
 function setup(){
